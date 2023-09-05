@@ -1,42 +1,5 @@
 # Linux Monitoring v1.0
 
-Linux basic bash scripting and system research.
-
-The russian version of the task can be found in the repository.
-
-## Contents
-
-1. [Chapter I](#chapter-i) 
-2. [Chapter II](#chapter-ii) \
-    2.1. [Bash](#bash) \
-    2.2. [Shell](#shell)
-3. [Chapter III](#chapter-iii) \
-    3.1. [First effort](#part-1-first-effort)  
-    3.2. [System research](#part-2-system-research)  
-    3.3. [Visual output design for the system research script](#part-3-visual-output-design-for-the-system-research-script)   
-    3.4. [Configuring visual output design for the system research script.](#part-4-configuring-visual-output-design-for-the-system-research-script)  
-    3.5. [File system research](#part-5-file-system-research)    
-4. [Chapter IV](#chapter-iv)
-
-## Chapter I
-
-![linux_monitoring_v1](misc/images/linux_monitoring_v1.png)
-
-Planet Earth, USA, California, nowadays.
-
-John have been working late, as usual, to avoid driving home through rush hour traffic.
-You think there is no one else in the office but you, until you hear noises from the office next door.
-You don't pay much attention to it, any colleague might have stayed late to finish his business.
-Suddenly you hear a yell from that very office (your colleague obviously thought he was alone):
-
-`-` Ugh, I am so tired of collecting system information by hand from these computers on Linux. I probably should have learned it better before applying for the job.
-
-You quickly realise that this is your new system administrator, hired just a couple of weeks ago. At the initiative of your teammate Mike, Linux have been installed on several machines in the office.
-Your sysadmin is really trying, he's just unlucky to get a job now. \
-"Poor guy. -- you thought. -- I should try to help him, since I have the time!"
-
-You go to Mike's desk and do something bad: you look in his drawer. You are lucky to find exactly what you were looking for: clippings from articles about bash and shell.
-
 ## Chapter II
 
 ### Bash
@@ -215,22 +178,3 @@ TOP 10 executable files of the maximum size arranged in descending order (path, 
 etc up to 10  
 Script execution time (in seconds) = 1.5
 ```
-
-
-## Chapter IV
-
-Well, now you've done all the work you wanted to do. You had to stay a little longer than usual, but it was worth it.
-You pack up your stuff and, on your way out of the office, you looked into the room where you heard your colleague earlier.
-
-`-` Hey, may I come in? - you knocked on the door.
-
-`-` Yes... just a second. I didn't think there was anyone else here at this hour.
-
-The door opened and, after a short conversation, you handed the inexperienced sysadmin a flash drive with the scripts.
-You said goodbye and were about to leave when you remembered an important detail.
-
-`-` Oh, I completely forgot. I'am John by the way. And what's your name?
-
-`-` Sebastian.
-
-💡 [Tap here](https://forms.yandex.ru/cloud/6418187c73cee70bbf478995/) **to leave your feedback on the project**. Pedago Team really tries to make your educational experience better.
